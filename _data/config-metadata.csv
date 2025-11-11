@@ -5,11 +5,14 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
-latitude,Latitude
-longitude,Longitude
+site,Site
 source,Source
 identifier,Source Identifier,,
 type,Type,
+language,Language
 format,Format,
+related,Related
+restrictions,Restrictions
+illustrations,Illustrations
 rights,Rights,
 rightsstatement,Rights Statement,,true
