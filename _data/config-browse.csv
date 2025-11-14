@@ -4,5 +4,5 @@ creator,Creator,,true,
 subject,,false,true
 location,,true
 site,,true
-illustrations,Illustrations,false,,Illustrations
+illustrations,Illustrations,false,true,Illustrations
 restrictions,Restrictions,,,Restrictions
