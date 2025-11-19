@@ -5,7 +5,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
-site,Site
+named,Named Individuals
 source,Source
 identifier,Source Identifier,,
 type,Type,
