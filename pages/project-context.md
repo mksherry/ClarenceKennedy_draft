@@ -34,7 +34,7 @@ The journal is currently the property of the Indiana University Museum of Archae
 The Museum of Archaeology and Anthropology acknowledges and honors the Indigenous communities native to this region and recognizes that Indiana University Bloomington is built on the Indigenous homelands of the Myaamiaki (Miami), Saawanwa (Shawnee), Bodwéwadmik (Potawatomi), and Lenape (Delaware) people. We respect Indigenous people and their many descendants who traversed or resided in this place and who fashioned and used objects that repose in this Museum. The Museum is committed to participating and collaborating with Indigenous partners on the co-creation of knowledge, scholarship, and education.
 
 ##### Special Thanks
-A special thank you to Kelsey Grimm of the Indiana University Museum of Archaeology and Anthroplogy. Without her knowldge, time, and passion for the collections, this project would not have existed. 
+The biggest thank you to Kelsey Grimm of the Indiana University Museum of Archaeology and Anthroplogy. Without her knowledge, time, and passion, this project would not have existed. 
 
 ##### Technical Credits - CollectionBuilder
 Comic Book Paratexts is built with CollectionBuilder, an open source framework for creating digital collections and exhibits. CollectionBuilder is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
