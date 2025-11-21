@@ -53,7 +53,11 @@ map-cluster-radius: 25 # size of clusters, from ~ 10 to 80
 #
 year-navigation: #"1900;1905;1910;1915;1920" # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 5 # set increments when auto gen nav years
-
+featured-image: objects/CK-034.jpg
+# optional: add extra padding around collection title for a larger image feature. 
+home-title-y-padding: 10em # Default is 8em
+# optional: change position of background image, center, top, bottom
+home-banner-image-position: bottom # Default is center
 ##########
 # DATA 
 #
