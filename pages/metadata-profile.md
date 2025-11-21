@@ -26,7 +26,9 @@ Users need to be able to browse or search by:
 - Location - requirement satisfied by the “location” field
 - Presence of illustrations - requirement satisfied by the “illustrations” field
 - Presence of restricted material - requirement satisfied by the "restricted” field
+
 Users should be able to discover material related to the contents of the journal - requirement satisfied by “source” and “related” fields
+
 Users should understand the copyright status of the material - requirement satisfied by “rights” field 
 
 Full Application Profile: 
