@@ -26,11 +26,7 @@ The journal is currently the property of the Indiana University Museum of Archae
 <br>
 
 #### Ethics
-Clarence does not seem to be aware of the ethical concerns related to his work. While he does not necessarily use derogatory language to discuss the previous occupants of the land, Clarence does not express concern about human remains he is disturbing and handling. In fact, he does not record any type of analysis or questions about his work until well into his journal, and even then, he shows a colonial bias in his site interpretation. 
-
-Furthermore, the Native American Removal Act was signed in 1830, and the Miami were the last to be forced from Indiana in the 1840s. Therefore, some Indigenous sites in the region could have been only vacated within a generation or two of them becoming “archaeological sites.” 
-
-Not only was no permission granted from these people or their descendants—who would likely still be living—to be disturbed, but the disregard for the cultural values and wishes of the Indigenous people was disrespectful and unethical. 
+Clarence does not seem to be aware of the ethical concerns related to his work. While he does not necessarily use derogatory language to discuss the previous occupants of the land, Clarence does not express concern about human remains he is disturbing and handling. In fact, he does not record any type of analysis or questions about his work until well into his journal, and even then, he shows a colonial bias in his site interpretation. Furthermore, the Native American Removal Act was signed in 1830, and the Miami were the last to be forced from Indiana in the 1840s. Therefore, some Indigenous sites in the region could have been only vacated within a generation or two of them becoming “archaeological sites.” Not only was no permission granted from these people or their descendants—who would likely still be living—to be disturbed, but the disregard for the cultural values and wishes of the Indigenous people was disrespectful and unethical. 
 
 In order to avoid the perpetuation of harm and express respect toward the Indigenous people who were disturbed in their resting places, certain content was redacted from the digitized pages. Any images or descriptions of human remains, location information that would allow someone to precisely locate the sites described, and other sensitive material were covered. 
 
