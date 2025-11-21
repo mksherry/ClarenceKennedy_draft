@@ -5,4 +5,6 @@ permalink: /metadata-profile.html
 # include CollectionBuilder info at bottom
 credits: true
 ---
-upload MAP here
+## Metadata Application Profile
+
+[CK-MAP.pdf](https://github.com/user-attachments/files/23683335/CK-MAP.pdf)
