@@ -7,7 +7,6 @@ credits: true
 ---
 
 ## Project Context
-<br>
 
 #### Overview 
 
