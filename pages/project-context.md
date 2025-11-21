@@ -8,6 +8,8 @@ credits: true
 
 ## Project Context
 
+<br>
+<br>
 #### Introduction
 
 This digital collection exhibits the archaeological journal kept by Clarence Kennedy from 1895 to 1897. The journal describes Kennedy’s travels around the Midwest, primarily Indiana and Kentucky, as he excavates mounds and other Native American sites. Due to the sensitive nature of the content, many sections of the journal have been redacted from public viewing. This journal and related material by Clarence Kennedy are currently held by the Indiana Univeristy Museum of Archaeology and Anthropology
