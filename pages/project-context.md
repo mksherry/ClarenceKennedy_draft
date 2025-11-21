@@ -32,3 +32,5 @@ The journal is currently the property of the Indiana University Museum of Archae
 #### Special Thanks
 <br>
 
+##### Technical Credits - CollectionBuilder
+Comic Book Paratexts is built with CollectionBuilder, an open source framework for creating digital collections and exhibits. CollectionBuilder is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
