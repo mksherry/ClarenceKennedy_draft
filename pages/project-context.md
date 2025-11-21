@@ -36,8 +36,5 @@ The Museum of Archaeology and Anthropology acknowledges and honors the Indigenou
 ##### Special Thanks
 A special thank you to Kelsey Grimm of the Indiana University Museum of Archaeology and Anthroplogy. Without her knowldge, time, and passion for the collections, this project would not have existed. 
 
-<br>
-<br>
-
 ##### Technical Credits - CollectionBuilder
 Comic Book Paratexts is built with CollectionBuilder, an open source framework for creating digital collections and exhibits. CollectionBuilder is developed by faculty librarians at the University of Idaho Library following the Lib-Static methodology.
